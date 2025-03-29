@@ -7,7 +7,6 @@ import QueueItem from '../component/QueueItem'
 const Dashbord = () => {
   return (
     <div>
-        <Nevbar />
         <Tabs />
         <QueueStatus />
         
